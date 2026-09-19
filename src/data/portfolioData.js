@@ -8,7 +8,7 @@ export const personalInfo = {
   location: "Rajkot, Gujarat, India",
   github: "https://github.com/mihirkatariyadev26-lgtm",
   githubUsername: "mihirkatariyadev26-lgtm",
-  linkedin: "https://linkedin.com/in/mihirkatariya",
+  linkedin: "https://linkedin.com/in/mihir-katariya",
   linkedinUsername: "mihirkatariya",
   resumeUrl: "/Resume.pdf",
   bio: "Dedicated Full-Stack Developer and Computer Science Engineering student with deep expertise in the modern MERN stack, real-time communication architecture, and intelligent AI integrations. Proven track record of building production-grade web applications, custom CLI developer tools, and low-latency retrieval systems. Seeking high-impact Full-Stack Developer opportunities where scalable architecture and product craftsmanship matter.",
